@@ -4,7 +4,7 @@
 </p>
 
 ---
-Thanks for visiting my GitHub! I direct Equalysis, a data science consulting firm blending traditional investigative approaches with contemporary data science methods to support equity-driven litigation. My work centers on exploring how academics, researchers, and activists can best analyze data and employ artificial intelligence in ways that civil rights lawyers, criminal defense investigators, and all those fighting for a more equal world can trust. 
+Thanks for visiting my GitHub! I direct Equalysis, a data science consulting company blending traditional investigative approaches with contemporary data science methods to support equity-driven litigation. My work centers on exploring how academics, researchers, and activists can best analyze data and employ artificial intelligence in ways that civil rights lawyers, criminal defense investigators, and all those fighting for a more equal world can trust. 
 
 ## **Academic Experience**
 
