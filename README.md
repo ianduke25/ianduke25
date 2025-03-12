@@ -14,7 +14,7 @@ Thanks for visiting my GitHub! I direct Equalysis, a data science consulting com
   
 ## **Social Impact and Research Interests**
 
-I currently support active litigation at the ACLU of Northern California, Covington LLP, and the Lawyer's Committee For Civil Rights of the San Francisco Bay Area. I am especially passionate about bridging gaps in communication between 'data people' and attorneys — generating new tools and methodologies to bolster legal investigations.
+I am particularly passionate about improving communication between data experts and attorneys. I use evolving data science techniques to automate investigative tasks, including analyzing body camera footage, connecting fragmented police records, and utilizing web scraping agents to monitor government activity in real time.
 
 ---
 ### **Projects**
