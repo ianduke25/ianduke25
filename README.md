@@ -20,6 +20,7 @@ As Founder and Data Scientist Equalysis, I currently support active litigation a
 ### **Projects**
 Take a look at a few public projects I'm most proud of:
 
-◆ **Body Camera Search Classifier(https://github.com/ianduke25/bodycam_search_classifier)** – A linear machine learning model trained to classify transcripts of police-civilian interaction resulting in searches (88% test set accuracy, 83% test set recall).
+◆ **[Body Camera Search Classifier](https://github.com/ianduke25/bodycam_search_classifier)** – A linear machine learning model trained to classify transcripts of police-civilian interaction resulting in searches (**88% test set accuracy, 83% test set recall**).
 
-◆ **Prison Operations Snapshot Application(https://github.com/ianduke25/prison_operations)** – An application scraping daily federal prison data and predicting future lockdown risk using a random forest model (93% test set accuracy).
+◆ **[Prison Operations Snapshot Application](https://github.com/ianduke25/prison_operations)** – An application scraping daily federal prison data and predicting future lockdown risk using a random forest model (**93% test set accuracy**).
+
