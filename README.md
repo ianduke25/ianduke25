@@ -17,7 +17,7 @@ Thanks for visiting my GitHub! I direct Equalysis, a data science consulting com
 I currently support active litigation at the ACLU of Northern California, Covington LLP, and the Lawyer's Committee For Civil Rights of the San Francisco Bay Area. I am especially passionate about bridging gaps in communication between 'data people' and attorneys — employing evolving methods in data science to automate investigative tasks such as body camera footage analysis, linking of fragmented police records, and real-time monitoring of government actions via web scraping agents.
 
 ---
-### **Projects**
+## **Projects**
 Take a look at a few public projects I'm most proud of:
 
 ◆ **[Body Camera Search Classifier](https://github.com/ianduke25/bodycam_search_classifier)** – A linear machine learning model trained to classify transcripts of police-civilian interaction resulting in searches (**88% test set accuracy, 83% test set recall**).
