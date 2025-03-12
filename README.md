@@ -8,9 +8,9 @@ Thanks for visiting my GitHub! I direct Equalysis, a data science consulting com
 
 ## **Academic Experience**
 
-◆ M.S. of Data Science @ University of San Francisco
+◆ M.S. in Data Science @ University of San Francisco
 
-◆ B.A. of Government and Psychology @ Cornell University
+◆ B.A. in Government and Psychology @ Cornell University
   
 ## **Social Impact and Research Interests**
 
