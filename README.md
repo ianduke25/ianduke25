@@ -1,8 +1,4 @@
 <h1 align="center">Hi! I'm Ian</h1>
-<p align="center">
-  <strong>Data Scientist | Researcher | Activist</strong>  
-</p>
-
 ---
 Thanks for visiting my GitHub! I direct Equalysis, a data science consulting company blending traditional investigative approaches with contemporary data science methods to support equity-driven litigation. My work centers on exploring how academics, researchers, and activists can best analyze data and employ artificial intelligence to bolster claims made in civil rights and criminal defense investigations.
 
